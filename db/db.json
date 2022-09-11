@@ -1,3 +1,13 @@
 [
-  
+  2,
+  {
+    "title": "This is a saved note!",
+    "text": "This note is saved!",
+    "id": 0
+  },
+  {
+    "title": "This is another saved note!",
+    "text": "asdasd",
+    "id": 1
+  }
 ]
